@@ -3,10 +3,7 @@ import XCTest
 
 final class ReusableCellsTests: XCTestCase {
     func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
-        XCTAssertEqual(ReusableCells().text, "Hello, World!")
+        // deliberately left empty
     }
 
     static var allTests = [
