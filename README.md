@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This is deprecated, and no longer maintained.
+
 # ReusableCells
 
 This is a small utility package that removes excess code when using `UITableView` and `UICollectionView`.
